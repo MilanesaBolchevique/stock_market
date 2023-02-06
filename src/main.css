@@ -8,7 +8,10 @@ body {
     color: black;
     text-align: center;
 }
-
+.tabs li.is-active a{
+    color:rgb(67, 149, 255);
+    border-color: rgb(67, 149, 255);
+}
 .markets_body {
     display: flex;
 }
